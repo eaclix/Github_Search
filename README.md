@@ -1,5 +1,6 @@
 **GitHub Search**
 Welcome to GitHub Search! This web-based application allows users to search for repositories, users, and issues on GitHub. Built with HTML, CSS, and JavaScript, it leverages the GitHub API to provide a fast and efficient way to explore the vast amount of content on GitHub.
+![GitHub Search](https://github.com/eaclix/Github_Search/assets/129897503/5fd81cbb-450c-451e-9b39-bf0d313fca20)
 
 **Benefits**
 User-Friendly Interface: Easy to navigate, making it simple to search for repositories, users, and issues on GitHub.
